@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+    padding: 50px;
+}
+.number-row{
+ margin-bottom: 1rem;   
+}
+.button-row{
+    margin-bottom: 1rem;   
+   }
+   #error{
+       color: red;
+   }
